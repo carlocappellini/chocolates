@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../../images/pionono.jpg');
+  background-image: url('../../images/strawberries.jpg');
   text-align: center;
   color: white;
 }
@@ -177,7 +177,7 @@ header .header-content .header-content-inner hr {
   margin: 30px auto;
 }
 header .header-content .header-content-inner p {
-  font-weight: 300;
+  font-weight: 400;
   color: rgba(255, 255, 255, 0.7);
   font-size: 16px;
   margin-bottom: 50px;
@@ -203,10 +203,11 @@ header .header-content .header-content-inner p {
     font-size: 50px;
   }
   header .header-content .header-content-inner p {
-    font-size: 18px;
-    max-width: 80%;
+    font-size: 40px;
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
+    color: #e2636e;
   }
 }
 .section-heading {
